@@ -1,12 +1,17 @@
 # Restaurant APP
 
-restaurants is a website that contains information on the list of restaurants in Indonesia from various cities. The information includes whether the restaurant is open or closed, price range, location of the restaurant city, description, category, food & drinks, reviews, restaurant address and so on. The data is obtained from the Dicoding api: https://restaurant-api.dicoding.dev/#/
+Restaurant APP ini merupakan Aplikasi berbasis Website menggunakan Reactjs serta beberapa sentuhan CSS. Aplikasi ini dibuat untuk Assestment Test pada Sekawan Media
 
 
 ## Version
 
 - Node.js v18.17.1
 - React v18.2.0
+
+
+## OpenAPI
+Disini saya menggunakan API terbuka melalui situs https://restaurant-api.dicoding.dev/#/
+
 
 ## Install
 
@@ -35,4 +40,4 @@ npm run dev
 
 ## Demo
 
-https://melia-sekawanmedia.netlify.app/
+https://main--frontenddevreactjs-aqiilahzayyaan.netlify.app/
