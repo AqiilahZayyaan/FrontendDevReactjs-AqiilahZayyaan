@@ -25,7 +25,7 @@ cd project_name
 ```bash
 npm install
 ```
-# atau
+atau
 ```bash
 yarn install
 ```
@@ -34,7 +34,7 @@ yarn install
 ```bash
 npm run dev
 ```
-# atau
+atau
 ```bash
 yarn dev
 ```
