@@ -40,4 +40,4 @@ npm run dev
 
 ## Demo
 
-https://main--frontenddevreactjs-aqiilahzayyaan.netlify.app/
+https://frontenddevreactjs-aqiilahzayyaan.netlify.app/
