@@ -39,5 +39,4 @@ npm run dev
 
 
 ## Demo
-
-https://frontenddevreactjs-aqiilahzayyaan.netlify.app/
+[Demo] (https://frontenddevreactjs-aqiilahzayyaan.netlify.app/) disini saya menggunakan Netlify.
