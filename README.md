@@ -25,19 +25,12 @@ cd project_name
 ```bash
 npm install
 ```
-atau
-```bash
-yarn install
-```
 
 4. Lalu Jalankan
 ```bash
 npm run dev
 ```
-atau
-```bash
-yarn dev
-```
+
 
 
 ## Demo
